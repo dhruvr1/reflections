@@ -13,7 +13,4 @@ How might using version control make you more confident to make changes that cou
 by using checkout
 Now that you have your workspace set up, what do you want to try using Git for?
 project
-commands I didnt do:
-git config --global push.default upstream
-git config --global merge.conflictstyle diff3
 
